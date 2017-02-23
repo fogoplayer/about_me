@@ -1,1 +1,25 @@
+.title {
+  text-align:center;
+  background-color:darkblue;
+  color:white;
+  margin:0px;
+  font-family: "Roboto Mono", "Roboto", sans-serif;
+}
 
+nav {
+  text-align:center;
+  background-color:blue;
+  color:white;
+}
+
+:link {
+  color:white;
+}
+
+:visited{
+  color:lightblue;
+}
+
+:active{
+  color:red;
+}
